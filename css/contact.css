@@ -135,6 +135,7 @@ bottom: 8px;
     }
     nav ul li a{
         color: #fff;
+        font-size: 14px;
     }
     /* for displaying the toggle menu in small screen */
     .menu-icon{
