@@ -140,6 +140,9 @@ nav ul li a:hover{
     /* for displaying the toggle menu in small screen */
     .menu-icon{
         display: block;
+        margin-right:20px;
+        width: 30px;
+        color: #1B5FA0;
     }
 
     #menuList{

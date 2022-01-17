@@ -110,6 +110,7 @@ h1{
     top: 214px;
     right: 0px;
     left: 0px;
+    bottom: 0px;
     border: none;
     cursor: pointer;
 }
@@ -146,7 +147,9 @@ h1{
     /* for displaying the toggle menu in small screen */
     .menu-icon{
         display: block;
-        margin-right:15px
+        margin-right:20px;
+        width: 30px;
+        color: #1B5FA0;
     }
 
     #menuList{
@@ -179,9 +182,9 @@ h1{
         top: 128px;
     }
     .login-form button{
-        top: 162px;
+        top: 189px;
     }
     .social-link {
-        top: 112px;
+        top: 151px;
     }
 }
