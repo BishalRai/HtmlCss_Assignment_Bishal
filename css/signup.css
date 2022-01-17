@@ -9,9 +9,6 @@
     box-sizing: border-box;
     overflow: hidden;
 }
-
-/* Menu design start */
-
 .navbar{
     width: 100%;
     display: flex;
@@ -50,7 +47,6 @@ nav ul li a:hover{
 }
 
 /* main body */
-
 .container .signup-ribbon{
     width: 260px;
     height: 36px;
@@ -62,7 +58,6 @@ nav ul li a:hover{
     font-weight: bold;
     font-size: 20px;
 }
-
 .container .signup-details{
     background-color: #8EBCFF;
     position: relative;
@@ -104,7 +99,6 @@ nav ul li a:hover{
     color:#1B5FA0 ;
     font-weight: bold;
 }
-
 .container .signup-details .cancel-btn{
     background-color: red;
 }

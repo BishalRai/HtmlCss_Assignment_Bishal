@@ -13,7 +13,6 @@
 }
 
 /* Menu design start */
-
 .navbar{
     width: 100%;
     display: flex;
@@ -53,7 +52,6 @@ nav ul li a:hover{
 /* Menu design end */
 
 /* main body part */
-
 .row{
     display: flex;
     justify-content: space-between;
