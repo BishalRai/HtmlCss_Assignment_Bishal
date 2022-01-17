@@ -152,28 +152,35 @@ h1{
         transition: 0.5s;
     }
     .container .login-form{
-        width: 47vw;
-        height: 42vh;
-        background-color: #8EBCFF;
-        position: relative;
-        margin-left: auto;
-        margin-right: auto;
-        overflow: hidden;
+        width: 85vw;
+        height: 44vh;
     }
     .container .login-form form{
-     padding-top: 25px;
+     padding-top: 0px;
+     padding-left: 0px;
     }
-    .login-form a p{
-        position: absolute;
-        right: 22px;
-        top: 168px;
-        color: #1B5FA0;
+    .container .login-form div{
+        margin: 15px 10px 0px 20px;
+    }
+    .container .login-form img{
+        height: 30px;
+        width: 45px;
+        margin-top: 0px;
+        padding: 5px 0px;
     }
     .container .login-form input{
-        width: 29vw;
+        width: 53vw;
+        margin-top: 17px;
+    }
+    .login-form a p{
+        right: 22px;
+        top: 128px;
+    }
+    .login-form button{
+        top: 190px;
     }
 
-    .login-form button{
-        top: 210px;
+    .social-link {
+        top: 85px;
     }
 }

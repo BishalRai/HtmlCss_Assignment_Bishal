@@ -152,7 +152,7 @@ bottom: 8px;
         
     }
     .container .important .heading{
-        margin: 0.5em 1em;
+        margin: 0.5em 8em;
         padding: 0px;
     }
 
@@ -175,15 +175,12 @@ bottom: 8px;
 
     /* for map size */
     .container .map-location{
-        width: 39.3em;
-        height: 19.5em;
-        margin: 0 2em 0 2em;
-        
+        width: 26.3em;
+        height: 20.6em;
+        margin: 0 2em 0 2em; 
     }
-   
-
     .social-link{
-        top: 18em;
+        top: 19em;
     }
 
 }
