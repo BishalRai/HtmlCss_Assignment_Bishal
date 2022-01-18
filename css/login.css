@@ -165,6 +165,8 @@ h1{
     .container .login-form form{
      padding-top: 0px;
      padding-left: 0px;
+     height: 39vh;
+     width: 85vw;
     }
     .container .login-form div{
         margin: 15px 10px 0px 20px;
@@ -181,13 +183,14 @@ h1{
     }
     .login-form a p{
         right: 40px;
-        top: 126px;
+        top: 132px;
+
     }
     .login-form button{
         top: 162px;
     }
     .social-link {
         bottom: 0px;
-        height: 55px;
+        height: 59px;
     }
 }
