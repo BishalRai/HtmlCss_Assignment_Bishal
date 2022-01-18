@@ -124,7 +124,7 @@ h1{
     text-align: center;
     background-color: #E5E5E5;
     position: absolute;
-    bottom: 0px;
+    margin-top: 147px;
     
 }
 
@@ -190,7 +190,7 @@ h1{
         top: 162px;
     }
     .social-link {
-        bottom: 0px;
-        height: 59px;
+        height: 52;
+        margin-top: 112px;
     }
 }
